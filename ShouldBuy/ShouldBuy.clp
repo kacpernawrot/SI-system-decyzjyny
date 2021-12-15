@@ -197,7 +197,7 @@
 
    =>
 
-   (assert (UI-state (display WhatWillYouDoNextYear)
+   (assert (UI-state (display HumanChild)
                      (relation-asserted human-child)
                      (response Robot)
                      (valid-answers Robot))))
@@ -243,7 +243,7 @@
 
    =>
 
-   (assert (UI-state (display HumanChild)
+   (assert (UI-state (display AreYouBullied)
                      (relation-asserted being-bullied)
                      (response YesHoldMe)
                      (valid-answers YesHoldMe Littlebit))))
@@ -255,7 +255,7 @@
 
    =>
 
-   (assert (UI-state (display Puppy)
+   (assert (UI-state (display MoneyForExtras)
                      (relation-asserted extra-money-apple)
                      (response UnbrekCase)
                      (valid-answers UnbrekCase ImATM))))
@@ -266,7 +266,7 @@
 
    =>
 
-   (assert (UI-state (display Leverage)
+   (assert (UI-state (display Puppy)
                      (relation-asserted promised-puppy)
                      (response Idontknowyet)
                      (valid-answers Idontknowyet YesImBestParent))))
@@ -278,7 +278,7 @@
 
    =>
 
-   (assert (UI-state (display AreYouBullied)
+   (assert (UI-state (display Leverage)
                      (relation-asserted use-as-leverage)
                      (response ICanGetHotTub)
                      (valid-answers ICanGetHotTub))))
