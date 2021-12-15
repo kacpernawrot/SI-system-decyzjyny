@@ -1,1 +1,1 @@
-# SI-system-decyzjyny
+# SI-system-decyzyjny
