@@ -292,6 +292,7 @@
 
    (or(logical (whinning NeverToldBefore))
    (logical (get-another-phone NogetJob))
+(logical (extra-money-apple UnbrekCase))
    
    )
    
@@ -307,7 +308,7 @@
    (logical (spend-hard-earned-cash ImATM))
    (logical (extra-money-apple ImATM))
    (logical (use-as-leverage ICanGetHotTub))
-   (logical (extra-money-apple UnbrekCase)))
+   )
    
    =>
 
